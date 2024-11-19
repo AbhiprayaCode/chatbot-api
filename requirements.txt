@@ -1,3 +1,4 @@
+fastAPI
 pymongo
 streamlit
 python-dotenv
