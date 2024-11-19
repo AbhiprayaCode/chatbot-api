@@ -1,4 +1,5 @@
 fastAPI
+uvicorn
 pymongo
 streamlit
 python-dotenv
